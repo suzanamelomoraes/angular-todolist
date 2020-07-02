@@ -5,6 +5,8 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
   providedIn: 'root',
 })
 export class TodoService {
+    todosUrl: 'https://jsonplaceholder.typicode.com/todos';
+
   constructor(private http: HttpClient) {}
 
   getTodos() {
