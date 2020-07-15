@@ -1,5 +1,7 @@
 # AngularTodolist
 
+- Application developed with the main goal to learn and practice CRUD (Create, Read, Update, Delete) principles in Angular, also basics concepts of this framework.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
 ## Development server
